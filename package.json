@@ -1,6 +1,6 @@
 {
   "name": "datasplice",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Library for managing large groups of json data in separate files.",
   "main": "index.js",
   "scripts": {
